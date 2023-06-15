@@ -65,6 +65,10 @@
     align-items: end;
 }
 
+.row.justify-center {
+    justify-content: center;
+}
+
 .row.justify-end {
     justify-content: end;
 }
