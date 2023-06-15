@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: unset;
+}
+
+img {
+    max-width: 100%;
+}
+button {
+    cursor: pointer;
+}
